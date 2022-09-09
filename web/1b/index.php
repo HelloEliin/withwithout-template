@@ -76,6 +76,7 @@
 </html>
 
 <?php
+    # Hello
     # Check if name and email fileds are empty
     if(empty($_POST['name']) && empty($_POST['email']) && empty($_POST['number'])){
         # If the fields are empty, display a message to the user
